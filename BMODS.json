@@ -1,0 +1,15 @@
+{
+  "id": "BMODS",
+  "name": "Balatromodded",
+  "display_name": "BMODS",
+  "author": ["pawPatoes"],
+  "description": "Adds features to Steamodded to make it better",
+  "prefix": "BM",
+  "version": "0.1",
+  "priority": 0,
+  "main_file": "BMODS.lua",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-1409x)",
+    "Talisman"
+  ]
+}
