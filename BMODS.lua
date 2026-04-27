@@ -143,8 +143,7 @@ end
 function Card.BMODS_SCORE_CALC(self, logic)  
     if not logic or type(logic) ~= 'table' then return logic end  
       
-    if logic.score or logic.Xscore or logic.Escore then  
-        -- Single validation check  
+    if logic.score or logic.Xscore or logic.Escore then    
         if not G.GAME or not G.GAME.hands or not G.GAME.last_hand_played or not G.GAME.hands[G.GAME.last_hand_played] then  
             return logic  
         end  
