@@ -1,4 +1,5 @@
 # Balatromodded
+READ HERE: https://raw.githubusercontent.com/pawPatoes/Balatromodded/refs/heads/main/README.md      
 ALPHA!!! Adds features into Steamodded to make your life easier
 Scoring:
 USAGE:
